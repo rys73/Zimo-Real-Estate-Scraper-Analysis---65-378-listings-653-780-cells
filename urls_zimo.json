@@ -1,0 +1,42 @@
+{
+  "Paris": {
+    "Appartement": "https://www.zimo.fr/annonces/immobilier/vente/appartement/paris-75001",
+    "Maison": "https://www.zimo.fr/annonces/immobilier/vente/maison/paris-75001"
+  },
+  "Marseille": {
+    "Appartement": "https://www.zimo.fr/annonces/immobilier/vente/appartement/marseille-13001",
+    "Maison": "https://www.zimo.fr/annonces/immobilier/vente/maison/marseille-13001"
+  },
+  "Lyon": {
+    "Appartement": "https://www.zimo.fr/annonces/immobilier/vente/appartement/lyon-69001",
+    "Maison": "https://www.zimo.fr/annonces/immobilier/vente/maison/lyon-69001"
+  },
+  "Toulouse": {
+    "Appartement": "https://www.zimo.fr/annonces/immobilier/vente/appartement/toulouse-31000",
+    "Maison": "https://www.zimo.fr/annonces/immobilier/vente/maison/toulouse-31000"
+  },
+  "Nice": {
+    "Appartement": "https://www.zimo.fr/annonces/immobilier/vente/appartement/nice-06000",
+    "Maison": "https://www.zimo.fr/annonces/immobilier/vente/maison/nice-06000"
+  },
+  "Nantes": {
+    "Appartement": "https://www.zimo.fr/annonces/immobilier/vente/appartement/nantes-44000",
+    "Maison": "https://www.zimo.fr/annonces/immobilier/vente/maison/nantes-44000"
+  },
+  "Montpellier": {
+    "Appartement": "https://www.zimo.fr/annonces/immobilier/vente/appartement/montpellier-34000",
+    "Maison": "https://www.zimo.fr/annonces/immobilier/vente/maison/montpellier-34000"
+  },
+  "Strasbourg": {
+    "Appartement": "https://www.zimo.fr/annonces/immobilier/vente/appartement/strasbourg-67000",
+    "Maison": "https://www.zimo.fr/annonces/immobilier/vente/maison/strasbourg-67000"
+  },
+  "Bordeaux": {
+    "Appartement": "https://www.zimo.fr/annonces/immobilier/vente/appartement/bordeaux-33000",
+    "Maison": "https://www.zimo.fr/annonces/immobilier/vente/maison/bordeaux-33000"
+  },
+  "Lille": {
+    "Appartement": "https://www.zimo.fr/annonces/immobilier/vente/appartement/lille-59000",
+    "Maison": "https://www.zimo.fr/annonces/immobilier/vente/maison/lille-59000"
+  }
+}
