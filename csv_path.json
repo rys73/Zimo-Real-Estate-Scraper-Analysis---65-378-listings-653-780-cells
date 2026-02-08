@@ -1,0 +1,45 @@
+{
+  "ALL": {
+    "Toutes": "C:/Users/ighik/OneDrive/Escritorio/html/PORTFOLIO_LINKEDIN/PORTOFOLIO_4_2/zimo_all_villes.csv"
+  },
+  "Paris": {
+    "Appartement": "C:/Users/ighik/OneDrive/Escritorio/html/PORTFOLIO_LINKEDIN/PORTOFOLIO_4_2/zimo_Paris_Appartement.csv",
+    "Maison": "C:/Users/ighik/OneDrive/Escritorio/html/PORTFOLIO_LINKEDIN/PORTOFOLIO_4_2/zimo_Paris_Maison.csv"
+  },
+  "Marseille": {
+    "Appartement": "C:/Users/ighik/OneDrive/Escritorio/html/PORTFOLIO_LINKEDIN/PORTOFOLIO_4_2/zimo_Marseille_Appartement.csv",
+    "Maison": "C:/Users/ighik/OneDrive/Escritorio/html/PORTFOLIO_LINKEDIN/PORTOFOLIO_4_2/zimo_Marseille_Maison.csv"
+  },
+  "Lyon": {
+    "Appartement": "C:/Users/ighik/OneDrive/Escritorio/html/PORTFOLIO_LINKEDIN/PORTOFOLIO_4_2/zimo_Lyon_Appartement.csv",
+    "Maison": "C:/Users/ighik/OneDrive/Escritorio/html/PORTFOLIO_LINKEDIN/PORTOFOLIO_4_2/zimo_Lyon_Maison.csv"
+  },
+  "Toulouse": {
+    "Appartement": "C:/Users/ighik/OneDrive/Escritorio/html/PORTFOLIO_LINKEDIN/PORTOFOLIO_4_2/zimo_Toulouse_Appartement.csv",
+    "Maison": "C:/Users/ighik/OneDrive/Escritorio/html/PORTFOLIO_LINKEDIN/PORTOFOLIO_4_2/zimo_Toulouse_Maison.csv"
+  },
+  "Nice": {
+    "Appartement": "C:/Users/ighik/OneDrive/Escritorio/html/PORTFOLIO_LINKEDIN/PORTOFOLIO_4_2/zimo_Nice_Appartement.csv",
+    "Maison": "C:/Users/ighik/OneDrive/Escritorio/html/PORTFOLIO_LINKEDIN/PORTOFOLIO_4_2/zimo_Nice_Maison.csv"
+  },
+  "Nantes": {
+    "Appartement": "C:/Users/ighik/OneDrive/Escritorio/html/PORTFOLIO_LINKEDIN/PORTOFOLIO_4_2/zimo_Nantes_Appartement.csv",
+    "Maison": "C:/Users/ighik/OneDrive/Escritorio/html/PORTFOLIO_LINKEDIN/PORTOFOLIO_4_2/zimo_Nantes_Maison.csv"
+  },
+  "Montpellier": {
+    "Appartement": "C:/Users/ighik/OneDrive/Escritorio/html/PORTFOLIO_LINKEDIN/PORTOFOLIO_4_2/zimo_Montpellier_Appartement.csv",
+    "Maison": "C:/Users/ighik/OneDrive/Escritorio/html/PORTFOLIO_LINKEDIN/PORTOFOLIO_4_2/zimo_Montpellier_Maison.csv"
+  },
+  "Strasbourg": {
+    "Appartement": "C:/Users/ighik/OneDrive/Escritorio/html/PORTFOLIO_LINKEDIN/PORTOFOLIO_4_2/zimo_Strasbourg_Appartement.csv",
+    "Maison": "C:/Users/ighik/OneDrive/Escritorio/html/PORTFOLIO_LINKEDIN/PORTOFOLIO_4_2/zimo_Strasbourg_Maison.csv"
+  },
+  "Bordeaux": {
+    "Appartement": "C:/Users/ighik/OneDrive/Escritorio/html/PORTFOLIO_LINKEDIN/PORTOFOLIO_4_2/zimo_Bordeaux_Appartement.csv",
+    "Maison": "C:/Users/ighik/OneDrive/Escritorio/html/PORTFOLIO_LINKEDIN/PORTOFOLIO_4_2/zimo_Bordeaux_Maison.csv"
+  },
+  "Lille": {
+    "Appartement": "C:/Users/ighik/OneDrive/Escritorio/html/PORTFOLIO_LINKEDIN/PORTOFOLIO_4_2/zimo_Lille_Appartement.csv",
+    "Maison": "C:/Users/ighik/OneDrive/Escritorio/html/PORTFOLIO_LINKEDIN/PORTOFOLIO_4_2/zimo_Lille_Maison.csv"
+  }
+}
